@@ -1,0 +1,47 @@
+{
+    "siswa": [
+        {
+            "tipe": "reguler",
+            "nis": "202601",
+            "nama": "Alya",
+            "kode_jurusan": "RPL",
+            "extra": "XI RPL 1"
+        },
+        {
+            "tipe": "pindahan",
+            "nis": "202602",
+            "nama": "Bagas",
+            "kode_jurusan": "TKJ",
+            "extra": "SMK Negeri 1"
+        },
+        {
+            "tipe": "pindahan",
+            "nis": "20208",
+            "nama": "Dinda rahma",
+            "kode_jurusan": "TKJ",
+            "extra": "Kelas X TKJ"
+        }
+    ],
+    "nilai": [
+        {
+            "nis": "202601",
+            "mapel": "PBO",
+            "nilai": 88
+        },
+        {
+            "nis": "202601",
+            "mapel": "Basis Data",
+            "nilai": 85
+        },
+        {
+            "nis": "202602",
+            "mapel": "PBO",
+            "nilai": 90
+        },
+        {
+            "nis": "202602",
+            "mapel": "basi data",
+            "nilai": 90
+        }
+    ]
+}
